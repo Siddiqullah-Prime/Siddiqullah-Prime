@@ -19,7 +19,13 @@ Welcome to my GitHub profile! I'm a Software Developer with a strong background 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp) ![ReactJS](https://img.shields.io/badge/-ReactJS-333?style=flat&logo=react) ![React Native](https://img.shields.io/badge/-React_Native-333?style=flat&logo=react) ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-333?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![.NET MAUI](https://img.shields.io/badge/-.NET_MAUI-333?style=flat&logo=dotnet)
+
 
 **Frameworks & Tools:**  
 ![.NET Core](https://img.shields.io/badge/-.NET_Core-333?style=flat&logo=dotnet) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333?style=flat&logo=visual-studio) ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![Expo](https://img.shields.io/badge/-Expo-333?style=flat&logo=expo) ![Vite](https://img.shields.io/badge/-Vite-333?style=flat&logo=vite) ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
